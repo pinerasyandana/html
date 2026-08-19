@@ -1,0 +1,31 @@
+h1,h2,p{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#rpl6{
+    background-color:wheat;
+    font-family: 'Trebuchet MS', 'lucida', 'sans-serif';
+}
+.kelas {
+  font-family: Arial, sans-serif;
+  color: green;
+
+}
+.nama {
+  font-family: Arial, sans-serif;
+  color: pink;
+  
+}
+h4{
+  background-color: yellow;
+  font-weight: bold;
+}
+#moto-hidup {
+  color: darkblue;
+  text-align: right;
+}
+h6{
+  background-color: red;
+  font-weight: bold;
+}
